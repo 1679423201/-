@@ -49,7 +49,7 @@ StringBuilder和StringBuffer的区别是：**StringBuilder是线程不安全的�
 
 #### 3.完成的屏幕上面的大概UI
 
-<img src='C:\Users\杨美端\Desktop\最终图标\刘海屏适配后.png' style="zoom:20%">
+<img src='http://m.qpic.cn/psb?/V129dH2W4KBwGm/EzErKqvieZOZbVJz1haqclZMLn81hHqtfCWVE3xa6QE!/b/dMUAAAAAAAAA&bo=OATICAAAAAADF84!&rf=viewer_4' style="zoom:20%">
 
 
 
@@ -81,15 +81,15 @@ StringBuilder和StringBuffer的区别是：**StringBuilder是线程不安全的�
 ```
 
 ### 视图
-##### (主界面，暂时美观UI)
+##### (主界面，暂时未美观UI)
 
-<img src='C:\Users\杨美端\Desktop\最终图标\主界面.png' style="zoom:20%">
+<img src='http://m.qpic.cn/psb?/V129dH2W4KBwGm/pM8UZGG4.mW*STMsVmx4B64RqlOLFd7UB5WUDYEuyH4!/b/dMEAAAAAAAAA&bo=OATICAAAAAADB94!&rf=viewer_4' style="zoom:20%">
 
 
 
 ##### (点击后，进入里面的链接)
 
-<img src='C:\Users\杨美端\Desktop\最终图标\进入链接后.jpg' style="zoom:20%">
+<img src='http://m.qpic.cn/psb?/V129dH2W4KBwGm/anZDtzxzYgGDwdqPDVgQ9aQkwZWU*f7M9BD2NKIYXzU!/b/dIMAAAAAAAAA&bo=OATICAAAAAARB8w!&rf=viewer_4' style="zoom:20%">
 
 
 # 学习笔记 5-4
